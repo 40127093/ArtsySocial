@@ -1,0 +1,1753 @@
+INFO | 2016-11-19 13:30:25,411 | index | root | Logging a test message from /
+INFO | 2016-11-19 13:30:28,559 | index | root | Logging a test message from /
+INFO | 2016-11-19 13:30:29,461 | index | profile | Logging a test message from /myprofile/
+INFO | 2016-11-19 13:30:30,601 | index | profile | Logging a test message from /myprofile/
+INFO | 2016-11-19 15:33:20,426 | index | profile | Logging a test message from /myprofile/
+INFO | 2016-11-19 15:33:23,123 | index | profile | Logging a test message from /myprofile/
+INFO | 2016-11-19 15:33:24,781 | index | root | Logging a test message from /
+INFO | 2016-11-19 15:33:25,048 | index | root | Logging a test message from /
+INFO | 2016-11-20 11:18:23,144 | index | root | Logging a test message from /
+INFO | 2016-11-20 11:18:28,407 | index | root | Logging a test message from /
+INFO | 2016-11-20 11:19:19,436 | index | root | Logging a test message from /
+INFO | 2016-11-20 11:19:24,809 | index | root | Logging a test message from /
+INFO | 2016-11-20 11:43:13,708 | index | root | Logging a test message from /
+INFO | 2016-11-20 11:53:18,210 | index | root | Logging a test message from /
+INFO | 2016-11-20 12:13:34,826 | index | root | Logging a test message from /
+INFO | 2016-11-20 12:13:37,430 | index | root | Logging a test message from /
+INFO | 2016-11-20 12:13:42,667 | index | root | Logging a test message from /
+INFO | 2016-11-20 12:32:39,239 | index | root | Logging a test message from /
+INFO | 2016-11-20 12:32:41,529 | index | root | Logging a test message from /
+INFO | 2016-11-20 12:32:47,656 | index | root | Logging a test message from /
+INFO | 2016-11-20 12:33:48,153 | index | root | Logging a test message from /
+INFO | 2016-11-20 16:26:16,398 | index | root | Logging a test message from /
+INFO | 2016-11-20 16:26:55,726 | index | root | Logging a test message from /
+INFO | 2016-11-20 16:36:16,311 | index | root | Logging a test message from /
+INFO | 2016-11-20 16:36:16,743 | index | root | Logging a test message from /
+INFO | 2016-11-20 16:36:23,416 | index | root | Logging a test message from /
+INFO | 2016-11-20 16:36:24,263 | index | root | Logging a test message from /
+INFO | 2016-11-20 16:36:43,974 | index | root | Logging a test message from /
+INFO | 2016-11-20 16:36:47,422 | index | root | Logging a test message from /
+INFO | 2016-11-20 16:36:49,537 | index | root | Logging a test message from /
+INFO | 2016-11-20 16:54:38,478 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 16:54:38,629 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 16:54:46,375 | index | register | Someone visited the Register page /register
+INFO | 2016-11-20 16:54:46,824 | index | register | Someone visited the Register page /register
+INFO | 2016-11-20 16:54:58,092 | index | register | Someone visited the Register page /register
+INFO | 2016-11-20 16:54:59,103 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 16:54:59,422 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:54:59,880 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:55:09,566 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:55:41,439 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:55:46,513 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:55:52,606 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:55:55,018 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 16:55:57,838 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 16:55:58,665 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:55:59,298 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-20 16:55:59,382 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 16:55:59,558 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:56:25,522 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:56:44,727 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:56:46,427 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:56:49,176 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:56:52,510 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:56:56,913 | index | login | Someone visited the Login page /login
+INFO | 2016-11-20 16:56:57,604 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 16:56:58,128 | index | register | Someone visited the Register page /register
+INFO | 2016-11-20 16:56:58,927 | index | register | Someone visited the Register page /register
+INFO | 2016-11-20 16:57:03,909 | index | register | Someone visited the Register page /register
+INFO | 2016-11-20 16:57:11,743 | index | register | Someone visited the Register page /register
+INFO | 2016-11-20 16:57:18,791 | index | register | Someone visited the Register page /register
+INFO | 2016-11-20 16:57:23,196 | index | register | Someone visited the Register page /register
+INFO | 2016-11-20 16:57:28,905 | index | register | Someone visited the Register page /register
+INFO | 2016-11-20 18:20:46,442 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 18:33:47,117 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 18:36:24,829 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 18:39:32,900 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 18:41:08,274 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 19:20:55,813 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 19:21:06,658 | index | root | Someone visited the Home page /
+INFO | 2016-11-20 19:24:52,854 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 16:47:46,498 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 16:47:52,074 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 16:47:57,453 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 16:57:52,516 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:05:26,982 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:05:29,528 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:05:57,279 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:07:02,129 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:09:31,262 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:11:28,194 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:14:54,157 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:21:09,711 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:21:11,456 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 17:21:12,319 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 17:21:30,027 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:31:34,752 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:31:35,086 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 17:31:35,502 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 17:51:30,064 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:51:30,332 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 17:51:31,021 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 17:51:39,438 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 17:51:47,520 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:51:48,006 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 17:51:48,855 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 17:51:52,588 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:51:52,915 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 17:51:53,276 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 17:53:42,151 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 17:53:44,997 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 17:53:45,291 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 17:53:50,000 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 17:53:50,121 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 17:58:58,681 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 18:00:16,373 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 18:00:17,886 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 18:00:18,207 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 18:00:18,565 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:04:47,180 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:09:54,909 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:11:18,339 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:11:19,449 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:11:20,329 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:16:16,723 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:16:23,438 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 19:16:23,991 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:16:24,421 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:16:36,266 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 19:16:36,496 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:16:37,358 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:18:52,200 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:18:56,258 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:18:57,625 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 19:18:57,896 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:18:58,351 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:21:24,156 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:22:55,042 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:22:58,327 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:24:00,448 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:24:03,872 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:24:04,590 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 19:24:05,060 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:24:05,942 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:24:09,718 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 19:24:10,045 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:24:10,428 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:25:20,106 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:25:22,506 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:25:26,681 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:25:37,788 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:25:40,333 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 19:29:12,121 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 19:29:12,882 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 19:29:13,016 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:29:13,286 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:30:02,550 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 19:30:39,917 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 19:30:40,368 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:30:41,183 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:41:27,718 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 19:45:31,695 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:27:43,927 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:29:26,479 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:30:37,474 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:31:36,161 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 20:31:51,374 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:37:53,098 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:38:00,648 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:47:13,226 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 20:48:07,973 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 20:48:21,363 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 20:48:37,596 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 20:48:41,297 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 20:48:58,926 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 20:49:03,083 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 20:49:03,199 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 20:51:01,818 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:51:02,807 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:52:06,591 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:57:24,071 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:57:43,443 | index | root | Someone visited the Home page /
+INFO | 2016-11-21 20:57:43,799 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 20:57:44,630 | index | register | Someone visited the Register page /register
+INFO | 2016-11-21 20:58:07,129 | index | login | Someone visited the Login page /login
+INFO | 2016-11-21 20:58:16,765 | index | login | Someone visited the Login page /login
+INFO | 2016-11-24 13:19:50,255 | index | root | Someone visited the Home page /
+INFO | 2016-11-24 13:21:21,401 | index | root | Someone visited the Home page /
+INFO | 2016-11-24 13:21:25,753 | index | root | Someone visited the Home page /
+INFO | 2016-11-24 13:21:26,374 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 09:56:25,622 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 09:57:06,714 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 09:57:10,452 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 09:57:11,319 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 09:57:12,010 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 09:57:27,469 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 09:57:41,107 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:00:09,567 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:06:30,611 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:08:26,105 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 10:10:09,215 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 10:10:40,322 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 10:11:12,448 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:23:55,521 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 10:23:58,556 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 10:24:29,121 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:24:33,830 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:26:18,033 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:27:19,034 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:27:25,822 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 10:29:14,759 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 10:29:27,346 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:30:28,348 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:31:16,288 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:33:02,194 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:33:16,219 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:43:24,208 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:50:51,852 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:51:02,665 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:52:18,290 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:52:22,760 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:55:24,589 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:55:52,793 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:56:11,629 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:57:24,328 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:58:16,856 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 10:59:48,756 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 10:59:57,047 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:00:55,863 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:03:54,700 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:05:28,199 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:06:00,606 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:06:25,896 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:06:44,030 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:10:16,185 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:10:20,645 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:11:39,550 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:12:10,192 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:12:16,805 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:14:38,570 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:14:48,220 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:15:05,309 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:15:13,804 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:15:33,093 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:15:44,870 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:17:03,840 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:31:48,323 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:32:04,971 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:33:33,852 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:33:39,086 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:33:40,387 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 11:33:40,683 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:33:41,026 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:43:59,264 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:44:02,579 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 11:44:03,139 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:44:03,873 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:44:35,972 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:44:42,578 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 11:44:44,896 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 11:44:52,368 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 11:44:53,401 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:44:54,278 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 11:45:01,734 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 12:09:37,348 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 12:09:50,227 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 12:14:25,801 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 12:15:07,461 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 12:15:07,741 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 12:15:08,069 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 12:15:19,240 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 12:15:27,409 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 12:20:48,267 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 12:21:24,568 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 12:22:30,985 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 12:22:54,543 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:03:55,685 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:09:24,591 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:14:52,056 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:14:56,233 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:15:11,052 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 13:37:12,529 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:39:29,011 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:42:58,361 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:43:46,295 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:45:10,079 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:45:44,053 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:46:27,282 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:47:18,427 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:57:33,713 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:59:19,594 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:59:22,104 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:59:23,864 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:59:38,700 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 13:59:40,306 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:00:17,735 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 14:00:25,642 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:00:29,611 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:04:34,738 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:05:12,737 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:05:53,664 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:07:20,525 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:07:22,423 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:07:23,722 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:07:27,823 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:07:29,104 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:07:43,278 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:07:46,825 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:07:49,466 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:08:13,486 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:08:16,217 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:08:22,927 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:08:26,190 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:08:40,812 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:08:46,218 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:08:49,374 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:08:51,186 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:08:55,134 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:08:56,175 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:10:35,523 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 14:10:40,076 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 14:10:40,798 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 14:11:03,011 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:11:17,522 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:11:19,552 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:11:39,536 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:11:41,834 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:11:45,426 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:11:57,927 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:12:23,546 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:12:30,519 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:12:44,340 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 14:12:50,834 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 14:12:57,715 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:13:00,425 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:14:23,564 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:14:26,401 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:14:41,184 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:15:01,600 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:15:05,169 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:15:08,614 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:15:10,790 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:19:13,089 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:25:33,849 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:28:03,055 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:28:41,747 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:28:45,169 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:31:11,612 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:31:32,484 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:31:33,578 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:31:34,776 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 14:31:35,064 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 14:31:38,760 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-25 14:31:39,011 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 14:31:41,534 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 14:32:16,224 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 14:32:25,980 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 14:32:28,472 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:35:54,315 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:38:47,233 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:38:50,471 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:38:55,138 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:39:03,338 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:39:06,543 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:39:59,773 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 14:40:02,736 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:40:25,084 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:41:32,329 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:41:48,413 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:42:25,659 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:42:27,692 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:42:30,359 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:42:33,511 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:42:56,202 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:42:58,694 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:43:01,003 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:43:34,687 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 14:43:41,088 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 14:45:35,652 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:45:44,639 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:45:47,832 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:46:02,232 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:46:52,239 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:49:59,100 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:50:02,052 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:50:47,330 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:50:50,233 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:50:56,266 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:52:01,573 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:53:10,114 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:53:17,966 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 14:54:02,164 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 16:37:33,563 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 16:37:57,105 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 16:38:51,280 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 16:38:54,256 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 16:40:22,457 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 16:40:26,580 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:18:56,563 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:18:57,375 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:18:58,116 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:18:59,317 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 18:18:59,867 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 18:19:00,332 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 18:19:06,440 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 18:19:07,211 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 18:19:08,884 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 18:19:10,083 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 18:20:05,388 | index | register | Someone visited the Register page /register
+INFO | 2016-11-25 18:20:06,819 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 18:20:07,430 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 18:20:07,772 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 18:20:20,816 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 18:20:23,164 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:23:50,231 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:23:50,962 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:23:51,803 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:23:54,580 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 18:23:55,134 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 18:24:36,603 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-25 18:24:36,826 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 18:24:37,345 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 18:24:38,002 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 18:24:38,219 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:36:28,683 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:36:31,790 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:36:34,337 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:37:11,683 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:38:26,994 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:42:18,407 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:42:23,084 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:42:29,428 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:45:37,794 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 18:55:39,294 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:00:14,958 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 19:00:15,329 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:00:16,418 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:00:46,439 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 19:00:46,727 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:00:47,530 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:03:41,054 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:03:42,183 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:03:43,216 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:09:01,159 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 19:09:14,604 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 19:09:17,111 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:09:20,775 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-25 19:09:20,901 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 19:09:30,568 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 19:10:36,009 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 19:10:38,296 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:16:46,802 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:16:50,087 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:17:28,829 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:19:34,249 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:19:37,303 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:20:43,402 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:22:51,809 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:22:54,656 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:23:47,399 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-25 19:23:47,508 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 19:23:49,233 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 19:24:02,418 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 19:24:15,618 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 19:24:17,935 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:25:26,693 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:26:16,066 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:26:31,747 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:26:54,397 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 19:27:02,281 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:27:05,196 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:29:48,719 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 19:29:53,661 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:30:33,206 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:31:42,226 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:34:13,994 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:34:15,644 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:37:42,287 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:38:48,063 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 19:48:12,420 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:48:15,444 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:48:16,816 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:49:15,202 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:49:19,539 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:49:21,399 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:53:29,813 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:53:34,114 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:53:51,043 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:54:26,527 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:55:19,514 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:55:34,887 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:55:38,215 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:55:40,295 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 19:55:43,748 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:04:14,674 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:04:59,701 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:05:56,809 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:07:31,315 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:08:41,851 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:08:54,459 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:09:13,041 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:10:48,381 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:10:51,201 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:11:09,858 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:11:23,767 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:11:25,942 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:11:26,058 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:11:36,253 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:11:52,511 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:12:00,687 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:12:10,939 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:12:42,743 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 20:12:55,770 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 20:12:58,225 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:13:10,962 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:13:58,765 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:14:04,571 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 20:14:13,669 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 20:14:15,987 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:14:32,610 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:14:35,530 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:14:41,789 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:15:14,231 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:18:44,367 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:18:49,736 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:18:52,836 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:18:57,019 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:19:02,362 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:21:09,101 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:21:49,701 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-25 20:21:49,776 | index | root | Someone visited the Home page /
+INFO | 2016-11-25 20:22:30,379 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 20:22:40,647 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 20:22:43,125 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-25 20:22:48,836 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-25 20:22:48,902 | index | login | Someone visited the Login page /login
+INFO | 2016-11-25 20:27:40,945 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 09:49:20,788 | index | root | Someone visited the Home page /
+INFO | 2016-11-26 09:49:26,006 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 09:49:55,047 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-26 09:49:55,392 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 09:50:06,806 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 09:50:09,176 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 10:32:08,617 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 10:44:12,804 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 10:44:23,881 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:12:32,800 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:18:20,300 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:20:11,704 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:21:30,586 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:26:13,479 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:33:48,864 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:35:01,087 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:35:04,784 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:35:10,490 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:35:22,105 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:35:23,544 | index | root | Someone visited the Home page /
+INFO | 2016-11-26 11:42:22,822 | index | root | Someone visited the Home page /
+INFO | 2016-11-26 11:42:54,447 | index | register | Someone visited the Register page /register
+INFO | 2016-11-26 11:43:02,334 | index | register | Someone visited the Register page /register
+INFO | 2016-11-26 11:43:03,558 | index | root | Someone visited the Home page /
+INFO | 2016-11-26 11:43:04,052 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 11:43:04,783 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 11:43:11,282 | index | root | Someone visited the Home page /
+INFO | 2016-11-26 11:43:11,816 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:43:12,569 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:43:16,579 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-26 11:43:16,878 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 11:43:23,472 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 11:43:24,139 | index | root | Someone visited the Home page /
+INFO | 2016-11-26 11:43:24,651 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:43:25,229 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:43:35,134 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 11:43:50,379 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 11:43:52,756 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:47:42,173 | index | root | Someone visited the Home page /
+INFO | 2016-11-26 11:53:19,225 | index | root | Someone visited the Home page /
+INFO | 2016-11-26 11:53:19,631 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:53:20,315 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:56:16,166 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 11:59:52,969 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:02:33,400 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:02:49,971 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:08:45,126 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:11:29,758 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:13:25,468 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:14:01,333 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:14:25,984 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:15:25,214 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:15:48,867 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:15:50,407 | index | root | Someone visited the Home page /
+INFO | 2016-11-26 12:30:21,850 | index | root | Someone visited the Home page /
+INFO | 2016-11-26 12:30:22,452 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:30:38,118 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:30:38,241 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:36:44,700 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:36:45,684 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:36:54,455 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:37:33,430 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:49:00,447 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 12:56:24,511 | index | profile | Someone visited the Personal Profile page /myprofile
+INFO | 2016-11-26 13:01:11,579 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:04:01,363 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:06:22,846 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:06:23,526 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:06:23,650 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:06:24,141 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:06:26,570 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:06:28,354 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:06:32,582 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:06:36,209 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:08:17,939 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:08:19,333 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:08:20,517 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:08:22,207 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:08:23,161 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:08:26,264 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:08:29,313 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:08:33,160 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:08:35,830 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:08:37,666 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:08:41,163 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:08:43,320 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:09:17,383 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:09:18,807 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:09:25,216 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:10:56,377 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:10:59,689 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:11:01,545 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:11:05,273 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:11:08,635 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:11:10,146 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:11:12,161 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:13:54,526 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:13:57,826 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:13:59,016 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:14:00,216 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:14:04,514 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:14:06,021 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:15:54,838 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:16:34,929 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:18:12,427 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:18:15,706 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:18:54,073 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:19:12,084 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:19:12,729 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:19:13,497 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:20:51,723 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:20:57,282 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:21:09,856 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:21:15,957 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:21:17,842 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:21:18,772 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:21:19,623 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:21:21,761 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:21:22,583 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:21:23,537 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:21:24,220 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:21:25,431 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:21:39,154 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:21:41,813 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:21:44,640 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:25:24,263 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:25:25,705 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:26:26,919 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:26:31,994 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:26:33,338 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:26:34,460 | index | root | Someone visited the Landing page (Login) /
+INFO | 2016-11-26 13:26:35,271 | index | root | Someone visited the Landing page (Login) /
+INFO | 2016-11-26 13:26:37,619 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:26:38,188 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:26:53,107 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:26:56,195 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:27:00,089 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:27:03,345 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:27:08,816 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:27:10,984 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:30:02,529 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:30:27,335 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:31:55,322 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:31:59,699 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:32:00,556 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:32:02,297 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:32:05,635 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:32:06,771 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:32:13,167 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:32:40,165 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:33:01,987 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:33:06,164 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:33:06,320 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:33:44,734 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:33:47,838 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:34:08,632 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:34:12,233 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:34:13,743 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:34:36,974 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:34:37,662 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:34:38,562 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:34:40,080 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:34:41,290 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:35:07,974 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:35:17,227 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:35:18,727 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:35:33,291 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:35:35,345 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:35:38,643 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:35:39,282 | index | root | Someone visited the Landing page (Login) /
+INFO | 2016-11-26 13:36:13,561 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:36:14,532 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:36:20,110 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:36:20,702 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:36:21,730 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:36:24,726 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:36:41,426 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:36:41,554 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:38:31,651 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:39:24,698 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:40:05,420 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:41:13,149 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:41:26,540 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:41:37,455 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:42:21,848 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:42:24,998 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:42:26,587 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:42:28,154 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:43:02,897 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:43:05,622 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:43:06,739 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:43:42,394 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:43:44,243 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:43:45,700 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:43:47,150 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:43:50,753 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:43:52,041 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-26 13:43:52,359 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 13:44:02,001 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 13:44:04,306 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:44:13,023 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 13:44:14,821 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:44:17,801 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:44:20,806 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:51:09,795 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:51:10,413 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:56:33,623 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 13:56:35,923 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:57:01,356 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:57:01,906 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:57:02,838 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 13:57:03,559 | index | root | Someone visited the Landing page (Login) /
+INFO | 2016-11-26 13:59:56,288 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 14:06:43,333 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:06:46,387 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:06:50,800 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:10:55,112 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:11:59,317 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 14:12:54,275 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 14:12:59,034 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:13:02,737 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:15:03,060 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:16:38,742 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:16:41,798 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:17:56,849 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:20:59,400 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:21:55,611 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:21:58,509 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:22:45,820 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:23:06,514 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:23:09,083 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:23:18,345 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 14:23:28,930 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:23:33,140 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:23:48,172 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:23:50,149 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:24:00,371 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:25:47,788 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 14:25:50,332 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:25:52,291 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:41:21,074 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:41:24,112 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:41:27,219 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:41:27,527 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:41:43,597 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:41:43,731 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:41:44,627 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 14:41:45,368 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:41:46,006 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-26 14:41:46,155 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 14:48:42,663 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 14:48:43,341 | index | root | Someone visited the Landing page (Login) /
+INFO | 2016-11-26 14:48:43,747 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:48:44,269 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:48:46,235 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 14:49:01,985 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 14:49:11,285 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 14:49:13,610 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:49:15,780 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:49:39,114 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 14:50:09,414 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 14:50:38,322 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:50:44,294 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:50:49,368 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 14:50:50,490 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:50:52,603 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:50:53,714 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 14:50:54,662 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 14:55:10,782 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 14:55:12,009 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 14:55:12,972 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 15:59:05,614 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:17:05,098 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:17:10,260 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:17:15,190 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 18:17:16,304 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 18:17:17,484 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:22:58,416 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:23:01,588 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:23:04,877 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:23:10,046 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 18:23:11,201 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 18:23:12,912 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:23:16,252 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-26 18:23:16,590 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 18:23:27,324 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 18:23:29,693 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 18:23:32,456 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:25:43,730 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:26:05,742 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:26:09,674 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:26:13,504 | index | root | Someone visited the Landing page (Login) /
+INFO | 2016-11-26 18:27:38,732 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:29:33,476 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 18:29:50,474 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 18:30:00,154 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:30:18,315 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-26 18:30:18,437 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 18:30:20,964 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 18:30:21,641 | index | root | Someone visited the Landing page (Login) /
+INFO | 2016-11-26 18:30:46,459 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 18:30:56,628 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 18:39:30,121 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 18:39:32,617 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 18:39:34,239 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:40:41,524 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:40:55,605 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:41:11,334 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:41:32,233 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:41:46,537 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:42:03,254 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:43:42,546 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:43:45,694 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:43:47,908 | index | root | Someone visited the Landing page (Login) /
+INFO | 2016-11-26 18:51:29,497 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:51:59,611 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 18:52:04,193 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:52:08,249 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 18:52:10,857 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 18:52:12,332 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:26:14,989 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:26:20,964 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:26:21,352 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:26:35,273 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:26:36,784 | index | root | Someone visited the root page/
+INFO | 2016-11-26 19:27:49,067 | index | root | Someone visited the root page/
+INFO | 2016-11-26 19:28:28,057 | index | root | Someone visited the root page/
+INFO | 2016-11-26 19:28:45,369 | index | root | Someone visited the root page/
+INFO | 2016-11-26 19:30:37,828 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:30:55,624 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:30:57,079 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:32:18,852 | index | root | Someone visited the root page/
+INFO | 2016-11-26 19:32:19,087 | index | root | Someone visited the root page/
+INFO | 2016-11-26 19:32:24,661 | index | root | Someone visited the root page/
+INFO | 2016-11-26 19:32:39,118 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 19:32:42,095 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 19:32:44,368 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:32:47,705 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 19:32:49,648 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 19:32:54,543 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 19:32:55,932 | index | root | Someone visited the root page/
+INFO | 2016-11-26 19:39:21,463 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:39:32,031 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:41:04,292 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:41:53,025 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:42:20,914 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:42:49,311 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:50:45,820 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 19:51:12,194 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-26 19:51:12,470 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 19:51:20,544 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 19:51:22,957 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 19:51:27,078 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:51:35,200 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 19:55:07,881 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 19:59:54,497 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 20:03:26,924 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:03:52,211 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:06:25,215 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:06:34,111 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:08:28,244 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:09:01,221 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:09:35,517 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:09:40,494 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:09:41,621 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:10:16,060 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:12:51,714 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 20:18:13,836 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-26 20:18:14,104 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 20:18:21,868 | index | login | Someone visited the Login page /login
+INFO | 2016-11-26 20:18:24,267 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:18:28,503 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 20:18:31,346 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 20:18:32,096 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 20:18:32,414 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 20:23:23,412 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 20:23:31,108 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:28:44,426 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:28:45,371 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:28:45,633 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:28:45,925 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:28:50,620 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 20:28:53,763 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 20:28:57,465 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:28:58,961 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:29:02,552 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 20:29:04,799 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 20:33:34,024 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 20:33:35,817 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-26 20:33:38,358 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-26 20:33:40,259 | index | about | Someone viewed the About page /about
+INFO | 2016-11-26 20:33:42,617 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 09:57:56,675 | index | root | Someone visited the root page/
+INFO | 2016-11-27 09:58:00,024 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 09:58:10,490 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 09:58:12,951 | index | profile | Someone viewed the Personal Profile page /myprofile
+INFO | 2016-11-27 10:17:06,526 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-27 10:17:06,845 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:17:09,707 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:17:10,407 | index | root | Someone visited the root page/
+INFO | 2016-11-27 10:28:32,955 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:28:44,276 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:28:45,089 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:28:45,938 | index | root | Someone visited the root page/
+INFO | 2016-11-27 10:28:47,168 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:28:47,300 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:29:33,108 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:33:37,913 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-27 10:33:38,135 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:33:40,649 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:33:41,420 | index | root | Someone visited the root page/
+INFO | 2016-11-27 10:33:42,018 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:34:07,177 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:34:33,455 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:35:08,725 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-27 10:35:08,950 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:35:17,601 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 10:38:46,356 | index | root | Someone visited the root page/
+INFO | 2016-11-27 10:38:46,822 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 10:39:12,511 | index | about | Someone viewed the About page /about
+INFO | 2016-11-27 10:39:56,517 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 11:13:28,622 | index | profile | Someone viewed their personal Profile page /myprofile
+INFO | 2016-11-27 11:13:45,111 | index | profile | Someone viewed their personal Profile page /myprofile
+INFO | 2016-11-27 11:13:46,305 | index | profile | Someone viewed their personal Profile page /myprofile
+INFO | 2016-11-27 11:13:46,534 | index | profile | Someone viewed their personal Profile page /myprofile
+INFO | 2016-11-27 11:14:16,432 | index | profile | Someone viewed another person's personal Profile page /myprofile
+INFO | 2016-11-27 11:17:01,937 | index | profile | poisonphoebe viewed phoebetyner's personal Profile page /myprofile
+INFO | 2016-11-27 11:17:39,056 | index | profile | poisonphoebe viewed phoebetyner's personal Profile page /myprofile
+INFO | 2016-11-27 11:18:33,235 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 11:23:33,866 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 11:24:24,113 | index | about | poisonphoebe viewed his/her personal About Me page /about
+INFO | 2016-11-27 11:24:36,936 | index | about | poisonphoebe viewed his/her personal About Me page /about
+INFO | 2016-11-27 11:24:37,346 | index | about | poisonphoebe viewed his/her personal About Me page /about
+INFO | 2016-11-27 11:24:41,275 | index | about | poisonphoebe viewed phoebetyner's personal About page /about
+INFO | 2016-11-27 11:25:15,778 | index | about | poisonphoebe viewed phoebetyner's personal About page /about
+INFO | 2016-11-27 11:25:26,054 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 11:27:31,157 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 11:27:31,511 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 11:27:39,848 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 11:27:40,221 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 11:33:07,114 | index | root | Someone visited the root page/
+INFO | 2016-11-27 11:33:07,566 | index | root | Someone visited the root page/
+INFO | 2016-11-27 11:33:57,715 | index | root | Someone visited the root page/
+INFO | 2016-11-27 13:47:01,483 | index | root | Someone visited the root page/
+INFO | 2016-11-27 13:47:01,763 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 13:47:03,086 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 13:47:03,756 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 13:53:36,025 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 13:53:44,392 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 13:53:45,790 | index | root | Someone visited the root page/
+INFO | 2016-11-27 13:53:46,263 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 13:53:46,713 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 13:54:29,310 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 13:54:30,470 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 13:58:08,576 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 13:58:47,001 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 14:07:25,209 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 14:07:25,744 | index | root | Someone visited the root page/
+INFO | 2016-11-27 14:07:44,081 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 14:42:44,895 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 14:42:45,661 | index | root | Someone visited the root page/
+INFO | 2016-11-27 14:52:01,299 | index | root | Someone visited the root page/
+INFO | 2016-11-27 14:57:18,747 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 14:57:30,444 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 15:04:46,096 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 15:05:18,489 | index | root | Someone visited the root page/
+INFO | 2016-11-27 15:12:48,663 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 15:18:05,676 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 15:18:18,905 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 15:46:12,995 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 16:54:14,553 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 16:54:57,421 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 17:18:07,080 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 17:18:14,599 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 17:18:18,831 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 17:18:43,129 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 17:18:45,636 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 17:19:06,015 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 17:19:12,893 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 17:19:24,007 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 17:19:25,369 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 17:20:42,111 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 17:21:07,000 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:23:23,627 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:23:33,226 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:23:34,184 | index | root | Someone visited the root page/
+INFO | 2016-11-27 17:23:34,607 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:23:35,333 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:23:55,577 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:24:11,716 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:24:23,613 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:24:33,053 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:28:43,421 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:30:01,439 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:30:10,662 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:33:28,474 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:33:37,521 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:35:09,478 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:35:19,903 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:35:43,961 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:37:04,319 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:37:28,993 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:38:21,647 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:38:36,345 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:39:23,457 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:39:27,361 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:40:02,895 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:40:06,699 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:40:13,940 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:40:55,521 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:41:03,300 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:43:29,446 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:44:19,526 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:44:22,415 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:44:55,834 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:44:59,347 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:45:19,306 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:45:23,259 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:45:26,735 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:45:37,360 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:45:39,771 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:47:13,270 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:47:32,044 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:47:40,845 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:48:06,964 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:48:09,592 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 17:48:13,501 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-27 17:48:13,781 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:48:21,541 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:48:23,980 | index | profile | michaelroum viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 17:48:31,189 | index | about | michaelroum viewed his/her personal About Me page /about
+INFO | 2016-11-27 17:48:45,874 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-27 17:48:46,144 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:52:02,084 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 17:52:04,249 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:55:17,450 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 17:55:19,918 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 18:41:25,682 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 18:41:30,812 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 18:41:32,201 | index | root | Someone visited the root page/
+INFO | 2016-11-27 18:59:03,552 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 18:59:07,368 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 18:59:12,803 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 18:59:36,930 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 19:14:03,694 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 19:14:09,783 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 19:25:21,203 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 19:43:32,658 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 19:47:23,793 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 19:47:25,601 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 19:50:20,765 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 19:57:07,315 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 19:57:15,420 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 19:59:36,219 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 19:59:43,865 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:01:59,114 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:11:23,677 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:11:26,949 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:11:36,062 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:11:38,125 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:14:23,668 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:15:51,314 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:16:02,209 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:20:29,475 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:20:46,275 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:21:16,535 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:23:35,080 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:24:29,038 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:25:23,191 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:25:26,757 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:25:49,574 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:25:52,966 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:30:06,111 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:30:15,394 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:30:16,899 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-27 20:30:17,622 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-27 20:30:22,914 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-27 20:30:24,132 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-27 20:30:27,841 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:31:48,370 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:32:01,854 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:32:05,296 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 20:32:13,211 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 20:32:19,854 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 20:32:20,467 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-27 20:32:21,037 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-27 20:32:29,434 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 20:32:42,220 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 20:32:47,592 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 20:32:48,068 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 20:33:10,146 | index | post | Someone viewed the Post Feed section/post-feed
+INFO | 2016-11-27 20:33:13,883 | index | root | Someone visited the root page/
+INFO | 2016-11-27 20:44:43,126 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-27 20:44:43,623 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 20:45:05,522 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 20:45:07,814 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:45:15,887 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-27 20:45:16,009 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 20:45:18,375 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 20:45:21,908 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 20:45:48,158 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 20:45:51,505 | index | register | Someone visited the Register page /register
+INFO | 2016-11-27 20:45:54,883 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 20:46:02,344 | index | login | Someone visited the Login page /login
+INFO | 2016-11-27 20:46:04,670 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-27 20:46:11,547 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-27 20:46:24,338 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-27 20:46:25,606 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-27 20:46:29,658 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-27 20:46:31,736 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-27 20:46:35,567 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 09:45:42,268 | index | root | Someone visited the root page/
+INFO | 2016-11-28 09:45:46,538 | index | root | Someone visited the root page/
+INFO | 2016-11-28 09:45:46,921 | index | root | Someone visited the root page/
+INFO | 2016-11-28 09:45:52,594 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 09:45:53,562 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 09:45:57,556 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 09:46:01,063 | index | register | Someone visited the Register page /register
+INFO | 2016-11-28 09:46:04,336 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 09:46:12,592 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 09:46:15,075 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 09:46:40,877 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 09:46:55,300 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 09:46:56,213 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 09:46:56,853 | index | root | Someone visited the root page/
+INFO | 2016-11-28 10:24:12,914 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 10:24:17,355 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 10:24:18,622 | index | root | Someone visited the root page/
+INFO | 2016-11-28 11:17:18,312 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:17:51,572 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:18:50,276 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:18:50,620 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:19:52,111 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:19:54,496 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:19:57,197 | index | root | Someone visited the root page/
+INFO | 2016-11-28 11:20:17,262 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:21:17,350 | index | root | Someone visited the root page/
+INFO | 2016-11-28 11:25:19,408 | index | root | Someone visited the root page/
+INFO | 2016-11-28 11:25:22,435 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:25:31,794 | index | root | Someone visited the root page/
+INFO | 2016-11-28 11:25:35,480 | index | root | Someone visited the root page/
+INFO | 2016-11-28 11:28:02,759 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:28:24,582 | index | root | Someone visited the root page/
+INFO | 2016-11-28 11:35:22,477 | index | root | Someone visited the root page/
+INFO | 2016-11-28 11:35:30,580 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:40:09,199 | index | root | Someone visited the root page/
+INFO | 2016-11-28 11:40:09,671 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:40:10,718 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:41:18,625 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 11:45:23,437 | index | post | Someone viewed the Post Feed section/new_post
+INFO | 2016-11-28 12:03:38,789 | index | root | Someone visited the root page/
+INFO | 2016-11-28 12:06:07,328 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 12:07:44,066 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 12:10:12,318 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 12:10:15,243 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 12:18:41,953 | index | root | Someone visited the root page/
+INFO | 2016-11-28 12:20:14,692 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 12:48:54,590 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 12:49:00,171 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 12:50:03,441 | index | logout | Someone requested to logout /logout
+INFO | 2016-11-28 12:50:03,530 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 12:50:07,203 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 12:50:11,529 | index | register | Someone visited the Register page /register
+INFO | 2016-11-28 12:50:16,605 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 12:50:24,605 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 12:50:26,925 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 12:57:33,467 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 12:57:45,839 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 12:57:46,053 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 12:57:46,426 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 12:59:26,761 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 13:03:17,871 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 13:03:22,237 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 13:03:28,990 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 13:04:27,129 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 13:04:30,577 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 13:04:39,474 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 13:04:41,767 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 13:04:48,186 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 13:04:54,129 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 13:04:54,591 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 13:04:54,910 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 13:05:03,940 | index | about | phoebetyner viewed michaelroum's personal About page /about
+INFO | 2016-11-28 13:09:03,954 | index | root | Someone visited the root page/
+INFO | 2016-11-28 13:13:17,813 | index | root | Someone visited the root page/
+INFO | 2016-11-28 13:13:27,438 | index | root | Someone visited the root page/
+INFO | 2016-11-28 13:13:27,679 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 13:15:02,870 | index | root | Someone visited the root page/
+INFO | 2016-11-28 13:36:09,884 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 13:36:15,064 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 13:36:22,861 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 13:36:23,025 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 13:41:16,181 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 13:41:17,382 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 13:41:32,128 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 13:41:32,305 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 13:41:38,690 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 13:43:14,772 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 13:43:15,618 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 14:02:50,911 | index | root | phoebetyner was redirected to the root page/
+INFO | 2016-11-28 14:10:35,222 | index | stream | phoebetyner viewed poisonphoebe's stream section/stream
+INFO | 2016-11-28 14:10:43,794 | index | stream | phoebetyner viewed poisonphoebe's stream section/stream
+INFO | 2016-11-28 14:10:45,626 | index | stream | phoebetyner viewed his-her stream section/stream
+INFO | 2016-11-28 14:10:45,890 | index | stream | phoebetyner viewed his-her stream section/stream
+INFO | 2016-11-28 14:24:50,892 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 14:25:20,037 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 14:25:30,932 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:25:31,585 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:27:13,815 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:27:19,449 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:29:26,349 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:31:27,442 | index | follow | phoebetyner is now following michaelroum
+INFO | 2016-11-28 14:31:27,678 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:31:29,012 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:31:31,321 | index | unfollow | phoebetyner is now unfollowing michaelroum
+INFO | 2016-11-28 14:31:31,455 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:31:40,854 | index | unfollow | phoebetyner is now unfollowing michaelroum
+INFO | 2016-11-28 14:31:40,971 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:31:55,699 | index | unfollow | phoebetyner is now unfollowing michaelroum
+INFO | 2016-11-28 14:31:55,799 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:32:05,125 | index | unfollow | phoebetyner is now unfollowing michaelroum
+INFO | 2016-11-28 14:32:05,299 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:32:15,143 | index | follow | phoebetyner is now following michaelroum
+INFO | 2016-11-28 14:32:15,242 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:32:26,652 | index | unfollow | phoebetyner is now unfollowing michaelroum
+INFO | 2016-11-28 14:32:26,756 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:32:33,165 | index | follow | phoebetyner is now following michaelroum
+INFO | 2016-11-28 14:32:33,269 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:34:04,452 | index | stream | phoebetyner viewed mfichaelroum's Stream section  /stream
+INFO | 2016-11-28 14:34:17,670 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 14:34:22,225 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 14:34:25,098 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 14:34:34,731 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 14:34:42,725 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 14:34:53,926 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 14:35:12,671 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 14:35:15,292 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:35:15,958 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 14:35:21,205 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 14:35:24,363 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 14:35:41,483 | index | logout | phoebetyner requested to logout /logout
+INFO | 2016-11-28 14:35:41,578 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 14:35:52,754 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 14:35:55,148 | index | profile | michaelroum viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 14:36:00,519 | index | post | michaelroum created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 14:36:03,132 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 14:36:05,414 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 14:36:08,689 | index | post | michaelroum created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 14:36:22,638 | index | post | michaelroum created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 14:36:22,862 | index | root | michaelroum was redirected to the root page  /
+INFO | 2016-11-28 14:51:03,838 | index | about | michaelroum viewed his/her personal About Me page /about
+INFO | 2016-11-28 17:00:39,475 | index | root | michaelroum was redirected to the root page  /
+INFO | 2016-11-28 17:03:30,626 | index | post | michaelroum created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:03:34,256 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:03:42,053 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:03:46,164 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:04:15,229 | index | stream | michaelroum viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:04:15,681 | index | stream | michaelroum viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:04:27,599 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:04:32,220 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:04:36,815 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:04:43,176 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:04:45,242 | index | stream | michaelroum viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:04:45,922 | index | stream | michaelroum viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:05:03,090 | index | stream | michaelroum viewed phoebetyner's Stream section  /stream
+INFO | 2016-11-28 17:05:03,867 | index | stream | michaelroum viewed phoebetyner's Stream section  /stream
+INFO | 2016-11-28 17:05:14,079 | index | follow | michaelroum is now following phoebetyner
+INFO | 2016-11-28 17:05:14,286 | index | stream | michaelroum viewed phoebetyner's Stream section  /stream
+INFO | 2016-11-28 17:05:30,019 | index | logout | michaelroum requested to logout /logout
+INFO | 2016-11-28 17:05:30,103 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:05:34,119 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:05:44,051 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:05:46,329 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 17:05:52,459 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:05:55,392 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:06:01,751 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:10:52,923 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:11:00,600 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:11:08,712 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:11:14,812 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:11:23,118 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:11:23,357 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 17:11:37,549 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 17:11:40,845 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 17:11:56,466 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:12:02,818 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:12:02,943 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 17:12:11,147 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 17:15:52,254 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:15:55,863 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:16:06,779 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:16:07,105 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:22:37,373 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:22:41,384 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:22:45,380 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:22:45,621 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 17:26:44,415 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 17:26:52,598 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 17:26:55,950 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:27:04,074 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:27:04,265 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 17:27:56,683 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 17:28:02,545 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 17:28:07,200 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:28:15,251 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:28:15,407 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 17:28:22,050 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:28:25,590 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:28:31,547 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:28:32,827 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:28:35,044 | index | unfollow | phoebetyner is now unfollowing poisonphoebe
+INFO | 2016-11-28 17:28:35,152 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:30:54,915 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 17:31:54,727 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:31:58,315 | index | follow | phoebetyner is now following poisonphoebe
+INFO | 2016-11-28 17:31:58,434 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:33:41,114 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:33:44,398 | index | unfollow | phoebetyner is now unfollowing poisonphoebe
+INFO | 2016-11-28 17:33:44,503 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:33:48,145 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:33:50,603 | index | follow | phoebetyner is now following poisonphoebe
+INFO | 2016-11-28 17:33:50,733 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:34:16,661 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:34:19,261 | index | unfollow | phoebetyner is now unfollowing poisonphoebe
+INFO | 2016-11-28 17:34:19,364 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:34:25,684 | index | follow | phoebetyner is now following poisonphoebe
+INFO | 2016-11-28 17:34:25,776 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:34:32,344 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:34:36,261 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:34:36,379 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 17:34:52,654 | index | logout | phoebetyner requested to logout /logout
+INFO | 2016-11-28 17:34:52,725 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:36:10,784 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:36:21,720 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:36:24,130 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 17:39:18,991 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 17:39:24,291 | index | logout | phoebetyner requested to logout /logout
+INFO | 2016-11-28 17:39:24,507 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:40:01,820 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:40:05,888 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:40:10,953 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:40:16,100 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:40:30,777 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:40:33,198 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 17:40:40,380 | index | logout | phoebetyner requested to logout /logout
+INFO | 2016-11-28 17:40:40,454 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:41:46,491 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:41:50,633 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:41:59,071 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:42:17,317 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:42:19,649 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 17:42:22,109 | index | logout | phoebetyner requested to logout /logout
+INFO | 2016-11-28 17:42:22,183 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:43:37,596 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:43:44,208 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:43:46,585 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 17:43:48,772 | index | logout | phoebetyner requested to logout /logout
+INFO | 2016-11-28 17:43:48,839 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:44:26,138 | index | register | Someone visited the Register page /register
+INFO | 2016-11-28 17:44:37,411 | index | register | Someone visited the Register page /register
+INFO | 2016-11-28 17:45:18,456 | index | register | Someone visited the Register page /register
+INFO | 2016-11-28 17:45:20,898 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:46:35,320 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:46:49,857 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:46:52,232 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 17:46:54,316 | index | logout | phoebetyner requested to logout /logout
+INFO | 2016-11-28 17:46:54,386 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:47:13,993 | index | register | Someone visited the Register page /register
+INFO | 2016-11-28 17:47:35,435 | index | register | Someone visited the Register page /register
+INFO | 2016-11-28 17:47:37,833 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:51:39,985 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:51:54,637 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 17:51:57,036 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 17:52:39,307 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:52:43,284 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:52:47,690 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:52:50,986 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:53:36,393 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:53:37,315 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:54:38,467 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:54:42,266 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:54:44,874 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:54:59,351 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 17:55:04,678 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:55:12,383 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:56:33,026 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 17:56:36,609 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:56:43,679 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:56:54,664 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 17:56:58,520 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 17:57:26,374 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 17:57:38,889 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 17:57:46,779 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 17:58:23,765 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:00:45,739 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:00:49,350 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:02:52,126 | index | logout | phoebetyner requested to logout /logout
+INFO | 2016-11-28 18:02:52,353 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 18:02:55,843 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 18:03:19,950 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 18:10:18,435 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 18:10:20,846 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:10:26,876 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:15:45,533 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:15:50,288 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:18:22,494 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:18:37,688 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:19:50,810 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:20:03,272 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:20:06,154 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:20:25,622 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:20:32,748 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:20:33,511 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:20:34,090 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:20:59,251 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 18:21:13,466 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 18:21:16,804 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 18:21:18,926 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 18:21:23,524 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:22:55,631 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:23:43,230 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:23:49,557 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:23:50,277 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:23:50,844 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 18:23:52,428 | index | about | phoebetyner viewed testuser's personal About page /about
+INFO | 2016-11-28 18:38:39,006 | index | about | phoebetyner viewed testuser's personal About page /about
+INFO | 2016-11-28 18:38:47,505 | index | about | phoebetyner viewed testuser's personal About page /about
+INFO | 2016-11-28 18:39:07,393 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 18:39:19,858 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 18:39:21,704 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:39:21,829 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:39:38,780 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 18:39:39,984 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 18:39:43,446 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 18:39:45,652 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 18:39:48,245 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 18:39:52,774 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 18:39:55,831 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:40:36,420 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 18:40:37,898 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:49:36,711 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:50:17,150 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:52:05,745 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:52:15,418 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:52:15,632 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:52:18,846 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 18:52:19,052 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:52:19,476 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:54:24,427 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:55:46,476 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:56:20,007 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:57:52,229 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:57:57,383 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 18:59:46,437 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:01:00,680 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:02:51,136 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:05:14,000 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:05:49,820 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 19:06:06,764 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:08:57,320 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:09:17,040 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:09:44,459 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:12:01,732 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:12:08,227 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:12:10,975 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:12:14,097 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 19:12:17,115 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:12:22,299 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:16:44,279 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:18:22,945 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 19:18:28,106 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:37:03,452 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:37:17,009 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:37:37,098 | index | profile | phoebetyner viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 19:37:43,606 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:37:56,912 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:37:57,093 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:38:42,696 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:38:48,152 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 19:39:00,483 | index | profile | phoebetyner viewed michaelroum's personal Profile page /myprofile
+INFO | 2016-11-28 19:39:20,947 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 19:39:32,284 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 19:39:38,572 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 19:39:38,889 | index | about | phoebetyner viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 19:39:44,792 | index | about | phoebetyner viewed his/her personal About Me page /about
+INFO | 2016-11-28 19:39:50,122 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:05:24,189 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-28 20:05:30,720 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:05:37,025 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:05:37,974 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:06:05,898 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:06:13,476 | index | profile | phoebetyner viewed michaelroum's personal Profile page /myprofile
+INFO | 2016-11-28 20:06:13,974 | index | profile | phoebetyner viewed michaelroum's personal Profile page /myprofile
+INFO | 2016-11-28 20:06:29,322 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:06:29,474 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:06:38,770 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:06:50,987 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:06:56,547 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 20:07:02,067 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:07:08,313 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:07:09,394 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:07:13,535 | index | unfollow | phoebetyner is now unfollowing poisonphoebe
+INFO | 2016-11-28 20:07:13,747 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:07:19,132 | index | follow | phoebetyner is now following poisonphoebe
+INFO | 2016-11-28 20:07:19,239 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:07:29,828 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:07:36,049 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 20:07:41,884 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:07:47,987 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:34:16,866 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:34:32,881 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:34:33,732 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:34:37,366 | index | unfollow | phoebetyner is now unfollowing poisonphoebe
+INFO | 2016-11-28 20:34:37,670 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:34:41,100 | index | follow | phoebetyner is now following poisonphoebe
+INFO | 2016-11-28 20:34:41,215 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:34:47,310 | index | logout | phoebetyner requested to logout /logout
+INFO | 2016-11-28 20:34:47,379 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 20:34:58,341 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 20:35:00,656 | index | profile | michaelroum viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:35:08,665 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:35:12,248 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:35:16,416 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:35:20,159 | index | post | michaelroum created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 20:35:58,250 | index | post | michaelroum created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 20:35:58,374 | index | root | michaelroum was redirected to the root page  /
+INFO | 2016-11-28 20:37:55,055 | index | profile | michaelroum viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:37:57,382 | index | profile | michaelroum viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:38:11,555 | index | profile | michaelroum viewed phoebetyner's personal Profile page /myprofile
+INFO | 2016-11-28 20:38:33,445 | index | profile | michaelroum viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 20:38:34,897 | index | profile | michaelroum viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 20:38:43,945 | index | profile | michaelroum viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 20:39:13,836 | index | profile | michaelroum viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 20:42:50,700 | index | profile | michaelroum viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 20:43:08,119 | index | profile | michaelroum viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 20:43:11,426 | index | about | michaelroum viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 20:43:20,017 | index | stream | michaelroum viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:43:28,607 | index | about | michaelroum viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 20:43:31,671 | index | profile | michaelroum viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 20:43:36,495 | index | stream | michaelroum viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:43:41,212 | index | about | michaelroum viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 20:43:45,288 | index | about | michaelroum viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 20:43:51,709 | index | profile | michaelroum viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 20:43:59,449 | index | profile | michaelroum viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:43:59,890 | index | profile | michaelroum viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:45:43,183 | index | profile | michaelroum viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:45:48,156 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:45:59,186 | index | stream | michaelroum viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:45:59,981 | index | stream | michaelroum viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:46:09,199 | index | profile | michaelroum viewed poisonphoebe's personal Profile page /myprofile
+INFO | 2016-11-28 20:46:19,489 | index | about | michaelroum viewed poisonphoebe's personal About page /about
+INFO | 2016-11-28 20:46:22,460 | index | stream | michaelroum viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 20:46:31,943 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:46:32,161 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:46:35,820 | index | about | michaelroum viewed his/her personal About Me page /about
+INFO | 2016-11-28 20:46:38,325 | index | profile | michaelroum viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:50:28,426 | index | stream | michaelroum viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:51:00,161 | index | logout | michaelroum requested to logout /logout
+INFO | 2016-11-28 20:51:00,373 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 20:51:12,769 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 20:51:15,086 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 20:51:18,349 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:51:21,532 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:51:39,954 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:51:50,844 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:51:51,517 | index | stream | poisonphoebe viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 20:51:53,069 | index | stream | poisonphoebe viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 20:52:12,889 | index | follow | poisonphoebe is now following michaelroum
+INFO | 2016-11-28 20:52:12,993 | index | stream | poisonphoebe viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 20:52:15,612 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:52:19,244 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:52:26,968 | index | stream | poisonphoebe viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 20:52:29,521 | index | unfollow | poisonphoebe is now unfollowing michaelroum
+INFO | 2016-11-28 20:52:29,642 | index | stream | poisonphoebe viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 20:52:31,661 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:52:37,919 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:52:48,782 | index | stream | poisonphoebe viewed phoebetyner's Stream section  /stream
+INFO | 2016-11-28 20:52:49,828 | index | stream | poisonphoebe viewed phoebetyner's Stream section  /stream
+INFO | 2016-11-28 20:52:58,932 | index | follow | poisonphoebe is now following phoebetyner
+INFO | 2016-11-28 20:52:59,036 | index | stream | poisonphoebe viewed phoebetyner's Stream section  /stream
+INFO | 2016-11-28 20:53:04,420 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:53:38,997 | index | post | poisonphoebe created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 20:55:09,599 | index | post | poisonphoebe created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 20:55:09,719 | index | root | poisonphoebe was redirected to the root page  /
+INFO | 2016-11-28 20:55:27,231 | index | stream | poisonphoebe viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 20:55:31,433 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:58:14,265 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:58:55,045 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 20:59:30,615 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:00:10,887 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:00:34,758 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:01:49,825 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:02:17,286 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:03:11,841 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:03:28,584 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:03:30,938 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:03:36,203 | index | post | poisonphoebe created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 21:03:38,855 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:04:05,315 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:04:08,834 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:04:32,043 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:04:42,707 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:04:44,642 | index | stream | poisonphoebe viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 21:04:45,623 | index | stream | poisonphoebe viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 21:04:48,922 | index | follow | poisonphoebe is now following michaelroum
+INFO | 2016-11-28 21:04:49,040 | index | stream | poisonphoebe viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 21:04:51,417 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:05:00,234 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:05:10,605 | index | profile | poisonphoebe viewed michaelroum's personal Profile page /myprofile
+INFO | 2016-11-28 21:05:11,307 | index | profile | poisonphoebe viewed michaelroum's personal Profile page /myprofile
+INFO | 2016-11-28 21:05:17,113 | index | about | poisonphoebe viewed michaelroum's personal About page /about
+INFO | 2016-11-28 21:05:20,876 | index | stream | poisonphoebe viewed michaelroum's Stream section  /stream
+INFO | 2016-11-28 21:05:28,394 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:05:36,043 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:10:49,181 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:14:10,693 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:14:40,006 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:15:29,712 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:19:14,107 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:20:39,262 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:21:22,322 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:22:13,517 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:23:13,522 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:23:16,247 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:24:09,721 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:24:14,575 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:28:30,969 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:28:34,358 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:28:55,517 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:28:56,349 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:28:57,270 | index | profile | poisonphoebe viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:29:23,332 | index | profile | poisonphoebe viewed phoebetyner's personal Profile page /myprofile
+INFO | 2016-11-28 21:29:47,751 | index | about | poisonphoebe viewed phoebetyner's personal About page /about
+INFO | 2016-11-28 21:29:52,908 | index | stream | poisonphoebe viewed phoebetyner's Stream section  /stream
+INFO | 2016-11-28 21:29:58,862 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:31:41,329 | index | stream | poisonphoebe viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:31:43,574 | index | logout | poisonphoebe requested to logout /logout
+INFO | 2016-11-28 21:31:43,852 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 21:31:48,310 | index | register | Someone visited the Register page /register
+INFO | 2016-11-28 21:32:17,646 | index | register | Someone visited the Register page /register
+INFO | 2016-11-28 21:32:20,119 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 21:32:30,666 | index | login | Someone visited the Login page /login
+INFO | 2016-11-28 21:32:32,945 | index | profile | anothertest viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:32:50,080 | index | about | anothertest viewed his/her personal About Me page /about
+INFO | 2016-11-28 21:32:53,359 | index | stream | anothertest viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:32:57,770 | index | post | anothertest created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 21:33:04,385 | index | post | anothertest created a new post on his/her post feed section /new_post
+INFO | 2016-11-28 21:33:04,561 | index | root | anothertest was redirected to the root page  /
+INFO | 2016-11-28 21:33:12,605 | index | stream | anothertest viewed phoebetyner's Stream section  /stream
+INFO | 2016-11-28 21:33:18,642 | index | stream | anothertest viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:33:22,016 | index | stream | anothertest viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:33:30,645 | index | stream | anothertest viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 21:33:31,132 | index | stream | anothertest viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 21:33:36,972 | index | follow | anothertest is now following poisonphoebe
+INFO | 2016-11-28 21:33:37,078 | index | stream | anothertest viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-28 21:33:40,124 | index | stream | anothertest viewed his/her Stream section  /stream
+INFO | 2016-11-28 21:34:25,529 | index | about | anothertest viewed his/her personal About Me page /about
+INFO | 2016-11-28 21:34:28,561 | index | profile | anothertest viewed his/her personal Profile page /myprofile
+INFO | 2016-11-28 21:34:36,296 | index | profile | anothertest viewed phoebetyner's personal Profile page /myprofile
+INFO | 2016-11-28 21:34:36,994 | index | profile | anothertest viewed phoebetyner's personal Profile page /myprofile
+INFO | 2016-11-28 21:34:44,522 | index | about | anothertest viewed phoebetyner's personal About page /about
+INFO | 2016-11-28 21:34:48,124 | index | stream | anothertest viewed phoebetyner's Stream section  /stream
+INFO | 2016-11-29 20:35:41,731 | index | root | anothertest was redirected to the root page  /
+INFO | 2016-11-29 20:35:47,911 | index | logout | anothertest requested to logout /logout
+INFO | 2016-11-29 20:35:48,248 | index | login | Someone visited the Login page /login
+INFO | 2016-11-29 20:35:51,423 | index | login | Someone visited the Login page /login
+INFO | 2016-11-29 20:38:00,297 | index | register | Someone visited the Register page /register
+INFO | 2016-11-29 20:38:46,751 | index | register | Someone visited the Register page /register
+INFO | 2016-11-29 20:38:49,105 | index | login | Someone visited the Login page /login
+INFO | 2016-11-29 20:39:07,653 | index | login | Someone visited the Login page /login
+INFO | 2016-11-29 20:39:10,095 | index | profile | toto viewed his/her personal Profile page /myprofile
+INFO | 2016-11-29 20:40:05,620 | index | profile | toto viewed phoebetyner's personal Profile page /myprofile
+INFO | 2016-11-29 20:40:06,248 | index | profile | toto viewed phoebetyner's personal Profile page /myprofile
+INFO | 2016-11-29 20:40:31,166 | index | about | toto viewed his/her personal About Me page /about
+INFO | 2016-11-29 20:40:45,529 | index | profile | toto viewed his/her personal Profile page /myprofile
+INFO | 2016-11-29 20:41:00,006 | index | profile | toto viewed his/her personal Profile page /myprofile
+INFO | 2016-11-29 20:41:01,047 | index | profile | toto viewed his/her personal Profile page /myprofile
+INFO | 2016-11-29 20:41:01,311 | index | profile | toto viewed his/her personal Profile page /myprofile
+INFO | 2016-11-29 20:41:03,618 | index | profile | toto viewed phoebetyner's personal Profile page /myprofile
+INFO | 2016-11-29 20:41:04,592 | index | profile | toto viewed phoebetyner's personal Profile page /myprofile
+INFO | 2016-11-29 20:41:36,095 | index | about | toto viewed phoebetyner's personal About page /about
+INFO | 2016-11-29 20:41:43,905 | index | about | toto viewed his/her personal About Me page /about
+INFO | 2016-11-29 20:42:35,928 | index | logout | toto requested to logout /logout
+INFO | 2016-11-29 20:42:36,001 | index | login | Someone visited the Login page /login
+INFO | 2016-11-29 20:42:51,440 | index | login | Someone visited the Login page /login
+INFO | 2016-11-29 20:42:53,677 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-29 20:42:58,842 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-29 20:43:14,263 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-29 20:43:17,607 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-29 20:43:30,823 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-29 20:43:33,241 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-29 20:43:39,669 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-29 20:43:50,875 | index | post | phoebetyner created a new post on his/her post feed section /new_post
+INFO | 2016-11-29 20:43:51,091 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-29 20:43:59,793 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-29 20:44:17,237 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-29 20:44:23,734 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-29 20:44:29,990 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-29 20:44:32,659 | index | unfollow | phoebetyner is now unfollowing michaelroum
+INFO | 2016-11-29 20:44:32,808 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-29 20:44:38,202 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-29 20:45:00,674 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-29 20:45:09,900 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
+INFO | 2016-11-29 20:45:12,262 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-29 20:45:13,163 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-29 20:45:18,261 | index | follow | phoebetyner is now following michaelroum
+INFO | 2016-11-29 20:45:18,359 | index | stream | phoebetyner viewed michaelroum's Stream section  /stream
+INFO | 2016-11-29 20:46:41,070 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-30 19:09:00,278 | index | root | phoebetyner was redirected to the root page  /
+INFO | 2016-11-30 19:09:05,241 | index | logout | phoebetyner requested to logout /logout
+INFO | 2016-11-30 19:09:05,460 | index | login | Someone visited the Login page /login
+INFO | 2016-11-30 19:53:57,901 | index | login | Someone visited the Login page /login
+INFO | 2016-11-30 19:53:58,657 | index | login | Someone visited the Login page /login
+INFO | 2016-11-30 19:54:21,236 | index | login | Someone visited the Login page /login
+INFO | 2016-11-30 19:54:21,360 | index | login | Someone visited the Login page /login
+INFO | 2016-11-30 19:54:29,815 | index | login | Someone visited the Login page /login
+INFO | 2016-11-30 19:54:32,229 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-30 19:54:35,395 | index | logout | phoebetyner requested to logout /logout
+INFO | 2016-11-30 19:54:35,471 | index | login | Someone visited the Login page /login
+INFO | 2016-11-30 19:54:55,652 | index | register | Someone visited the Register page /register
+INFO | 2016-11-30 19:54:56,595 | index | register | Someone visited the Register page /register
+INFO | 2016-11-30 19:57:56,905 | index | login | Someone visited the Login page /login
+INFO | 2016-11-30 19:58:08,698 | index | login | Someone visited the Login page /login
+INFO | 2016-11-30 19:58:10,960 | index | profile | phoebetyner viewed his/her personal Profile page /myprofile
+INFO | 2016-11-30 19:58:21,892 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-30 19:58:25,763 | index | stream | phoebetyner viewed his/her Stream section  /stream
+INFO | 2016-11-30 19:58:28,863 | index | stream | phoebetyner viewed poisonphoebe's Stream section  /stream
