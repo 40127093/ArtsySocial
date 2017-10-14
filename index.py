@@ -42,7 +42,7 @@ def load_user(userid):
 @app.before_request
 def before_request():
   g.db = models.DATABASE
-  g.db.connect()
+  g.db.get_conn()
   g.user = current_user
 
 
